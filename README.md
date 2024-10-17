@@ -19,6 +19,7 @@ Continuous Improvement: Our system is designed for continuous improvement. As we
 Take charge of your health with our Personalized Medical Recommendation System. Your well-being is our priority, and we're dedicated to providing you with the tools and insights you need for a healthier, happier life.
 
 ## Features
+```
 Symptom Analysis:
    • Users can input specific symptoms for personalized medication
      recommendations.
@@ -38,7 +39,7 @@ User-Friendly Interface:
 Reporting and Analytics:
    • Offers tools to analyze medication effectiveness and adherence.
    • Supports informed decision-making and better healthcare outcomes
-
+```
 ## Requirements
 Operating System: Requires a 64-bit OS (Windows 10 or Ubuntu) for compatibility with deep learning frameworks.
 
@@ -85,11 +86,13 @@ This project showcases the powerful combination of machine learning and healthca
 Furthermore, the system’s continuous improvement mechanism ensures that it evolves with more data, offering increasingly accurate and relevant recommendations over time. This project serves as a significant step forward in the realm of digital health, contributing to a more informed and healthier society.
 
 ## Articles published / References
+```
 [1] Ian H. Witten, Eibe Frank, and Mark A. Hall. (2011). Data Mining: Practical Machine Learning Tools and Techniques. Morgan Kaufmann.
 [2] Alaa, A. et al. (2019). "A Support Vector Machine-Based Approach for Drug Recommendation Using Electronic Health Records."
 [3] Huang, Y. et al. (2019). "Personalized medication recommendation based on user behavior data." Artificial Intelligence in Medicine, 98, 109-117.
 [4] Thakkar, S. et al. (2022). "Machine Learning in Healthcare: Applications and Future Directions." Health Informatics Journal, 28(1), 145-159.
-[5] Kumar, A. (2020). "Development of a Machine Learning-Based Medication Recommendation System." Master’s Thesis, University of Technology. 
+[5] Kumar, A. (2020). "Development of a Machine Learning-Based Medication Recommendation System." Master’s Thesis, University of Technology.
+```
 
 
 
